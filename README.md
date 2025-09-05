@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John
 - I love building stuff, and solving problems
-- Experience with a wide variety of full-stack tools and frameworks (Angular, React, MongoDB, AWS, Google Cloud, Supabase, Express, Next.js, etc.) 
+- Experience with a wide variety of full-stack tools and frameworks (Angular, React, MongoDB, PostgreSQL, AWS, Google Cloud, Supabase, Express, Next.js, etc.) 
 - I am a Senior at Towson University persuing a bachelor's degree in Computer Science
 - I have a strong background in sales, and work well with people
 - You can reach me at johnpgonsalves89@gmail.com
