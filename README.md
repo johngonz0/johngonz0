@@ -1,10 +1,9 @@
-- 👋 Hi, I’m John
-- I love building stuff, and solving problems
-- Experience with a wide variety of full-stack tools and frameworks (Angular, React, MongoDB, PostgreSQL, AWS, Google Cloud, Supabase, Express, Next.js, etc.) 
-- I am a Senior at Towson University persuing a bachelor's degree in Computer Science
-- I have a strong background in sales, and work well with people
-- You can reach me at johnpgonsalves89@gmail.com
-- ⚡ Fun fact: I enjoy sports, and play hockey as well as lacrosse
+- Hello, I'm John
+- Founder of Opsify, a back office operations platform for small field service businesses. https://opsifyapp.com
+- I am a salesperson at heart, and love helping people solve various problems by applying both my technical and non-technical background
+- I love being on the water, fishing, and playing lacrosse/hockey
+- I've been doing full stack software development for about 2.5 years
+- BS, Comp Sci from Towson University (2026)
 
 <!---
 johngonz0/johngonz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
