@@ -1,4 +1,4 @@
-Hello, I'm John, founder of Opsify, a back office operations platform for small field service businesses. https://opsifyapp.com
+I'm John, the founder of Opsify, a back office operations platform for small field service businesses. https://opsifyapp.com
 
 I am a salesperson at heart, and love helping people solve various problems by applying both my technical and non-technical background
 
